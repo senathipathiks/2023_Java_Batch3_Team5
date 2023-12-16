@@ -7,6 +7,10 @@ class MyClass {
     System.out.println("Edited by Sherin Dhanya");
     System.out.println("Edited my Sundhar Raj S");
   }
+    System.out.println("Sum of two numbers: " +(x+y));
+    System.out.println("Sathiyan Updated "); //Edited by Sathiyan
+    System.out.println("Edited by Sherin Dhanya");
+}
 
    void add(int x, int y, int z) {
     System.out.println("sum of three numbers is : " + (x + y + z));
@@ -31,8 +35,17 @@ class MyClass {
   }
 
 Void  div(int a, int b,int c)
+
+Void  div (int x, int y) //Division of two numbers
+{
+System.out.println("Division of two numbers : "+(x/y));
+}
+  
+Void  div(int a, int b,int c) // div of two number.
+
 {
 System.out.println("Division of two numbers : " +(a+b));
+}
 
   void mul(int x, int y)// multiplying two integers
   {
@@ -44,12 +57,18 @@ System.out.println("Division of two numbers : " +(a+b));
     System.out.println("Product of two numbers: " + (x * y * z));
   }
 
+
   Void Subtraction(int a, int b) {
     System.out.println("Sum of two numbers: " + (a - b));
   }
 
   void Subtraction(int c, int d, int e) {
     System.out.println("Sum of two numbers: " + (c - d - e));
+
+  Void Subtraction(int a,int b)
+  {
+	  System.out.println("Sum of two numbers: "+ (a-b));
+
   }
 
 }

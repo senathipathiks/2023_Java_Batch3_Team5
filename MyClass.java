@@ -8,6 +8,7 @@ class MyClass {
     System.out.println("Edited my Sundhar Raj S");
   }
     System.out.println("Sum of two numbers: " +(x+y));
+    System.out.println("Modified by Srini");;
      System.out.println("Sathiyan Updated "); //Edited by Sathiyan
     System.out.println("Edited by Sherin Dhanya");
     System.out.println("Edited by SowmiyaRamu");

@@ -3,4 +3,8 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
+Void  div(int x, int y)
+{
+System.out.println("Division of two numbers : " x/y);
+}
 }

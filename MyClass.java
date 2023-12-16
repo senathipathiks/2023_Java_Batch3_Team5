@@ -18,11 +18,11 @@ class MyClass {
 
     System.out.println("Sum of two numbers: " +(x+y));
 
-Void  div (int x, int y)
+Void  div (int x, int y) //Division of two numbers
 {
 System.out.println("Division of two numbers : "+(x/y));
 }
-Void  div(int a, int b,int c)
+Void  div(int a, int b,int c) // div of two number.
 {
 System.out.println("Division of two numbers : " +(a+b));
 

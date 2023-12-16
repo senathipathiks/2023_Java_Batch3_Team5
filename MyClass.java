@@ -7,4 +7,8 @@ Void  div(int x, int y)
 {
 System.out.println("Division of two numbers : " x/y);
 }
+Void  div(int a, int b)
+{
+System.out.println("Division of two numbers : " a/b);
+
 }

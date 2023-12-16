@@ -4,8 +4,11 @@ class MyClass {
   {
 
     System.out.println("Sum of two numbers: " +(x+y));
-    System.out.println("Sathiyan Updated "); //Edited by Sathiyan
+     System.out.println("Sathiyan Updated "); //Edited by Sathiyan
     System.out.println("Edited by Sherin Dhanya");
+    System.out.println("Edited by SowmiyaRamu");
+  }
+   
 }
 
   void remains(int x,int y) //Remains value
